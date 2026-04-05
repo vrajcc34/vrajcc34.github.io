@@ -6,7 +6,7 @@ layout: default
 
   <div style="width: 35%; text-align: center;">
     <h2>Vraj Patel</h2>
-    <p>Information Systems Major | Data Science Minor</p>
+    <p>Bachelors of Science in Information Systems with a minor in Data Science at DePaul University</p>
   </div>
 
   <div style="width: 65%;">
